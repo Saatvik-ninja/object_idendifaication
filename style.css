@@ -1,0 +1,32 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+color: #fc03d3;
+background-color: cyan;
+width: 30%;
+}
+
+.background{
+    background-image: url("521266.jpg");
+    background-position: center;
+}
+
+#text{
+    color:green ;
+    background-color:#0cf270 ;
+    width: 30%;
+}
+
+canvas{
+    box-shadow: 15px 15px 15px 15px #cc34eb;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+
